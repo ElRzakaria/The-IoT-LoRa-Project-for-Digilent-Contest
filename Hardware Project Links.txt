@@ -1,0 +1,12 @@
+The Smart Camera use two ZYBO Z7 Cards :
+- One for the Linux OS embedded to work as a Gateway
+- Second is for de Image processing, so it's connected to a PCam
+
+
+These are links to get the projects : 
+
+Linux OS embedded in SD Card of Zybo Z7
+https://drive.google.com/file/d/1filmg78XanYHkeNlUGuH7gM6Ybuy5ktW/view?usp=sharing
+
+Project for the Smart Camera connected to Zybo Z7
+https://drive.google.com/file/d/1jP7CrE-kUK0SY5YjSZkUTL61UNi0fYiI/view?usp=sharing
